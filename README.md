@@ -54,8 +54,7 @@ cd Python-Calculator
 Python-Calculator/
 │
 ├── Calculator.py         # Main calculator script
-├── README.md             # Project documentation
-└── .venv/                 # Virtual environment 
+└── README.md             # Project documentation
 ```
 ## 🤝 Contributing
 **Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.**
